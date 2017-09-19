@@ -1,4 +1,4 @@
-{
+{CRAP
     "advertising": {
         "enabled": false,
         "adServerUrl": null,
